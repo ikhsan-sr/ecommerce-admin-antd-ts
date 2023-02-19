@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import { Spin, Typography, Card, Row, Col, Divider } from 'antd';
 
-import useTableData from '@/hooks/useTableData/v2';
+import useTableData from '@/hooks/useTableData';
 import { API_URL } from '@/constants/env';
 
 import { COLUMN_PRODUCTS } from './columns';
