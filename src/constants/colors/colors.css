@@ -1,0 +1,99 @@
+:root {
+  /* Primary */
+  --CRP10: #e6f4ff;
+  --CRP20: #b3deff;
+  --CRP30: #80c8fe;
+  --CRP40: #4eb1fe;
+  --CRP50: #1b9bfe;
+  --CRP60: #0182e4;
+  --CRP70: #0165b1;
+  --CRP80: #01487f;
+  --CRP90: #002b4c;
+  --CRP100: #000e19;
+
+  --BLUE: #00ADEE;
+
+  /* Secondary */
+  --CRS10: #fff1e6;
+  --CRS20: #ffd4b3;
+  --CRS30: #feb780;
+  --CRS40: #fe9a4e;
+  --CRS50: #fe7d1b;
+  --CRS60: #e46401;
+  --CRS70: #b14e01;
+  --CRS80: #7f3701;
+  --CRS90: #4c2100;
+  --CRS100: #190b00;
+
+  /* Neutral */
+  --CRN10: #ffffff;
+  --CRN20: #f2f2f2;
+  --CRN30: #cfcfcf;
+  --CRN40: #afafaf;
+  --CRN50: #8f8f8f;
+  --CRN60: #707070;
+  --CRN70: #505050;
+  --CRN80: #303030;
+  --CRN90: #101010;
+  --CRN100: #000000;
+
+  /* Red */
+  --CRR10: #fdeae8;
+  --CRR20: #ffb3b3;
+  --CRR30: #f3948c;
+  --CRR40: #ee695d;
+  --CRR50: #e93e2f;
+  --CRR60: #d02416;
+  --CRR70: #a21c11;
+  --CRR80: #73140c;
+  --CRR90: #450c07;
+  --CRR100: #170402;
+
+  /* Green */
+  --CRG10: #ecf9ef;
+  --CRG20: #c5edcf;
+  --CRG30: #9ee1b0;
+  --CRG40: #77d590;
+  --CRG50: #50c970;
+  --CRG60: #36af57;
+  --CRG70: #2a8843;
+  --CRG80: #1e6130;
+  --CRG90: #123a1d;
+  --CRG100: #06130a;
+
+  /* Blue */
+  --CRB10: #e7effe;
+  --CRB20: #b7d0fb;
+  --CRB30: #87b1f8;
+  --CRB40: #5692f5;
+  --CRB50: #2673f2;
+  --CRB60: #0d5ad9;
+  --CRB70: #0a46a9;
+  --CRB80: #073278;
+  --CRB90: #041e48;
+  --CRB100: #010a18;
+
+  /* Yellow */
+  --CRY10: #fff8e6;
+  --CRY20: #feebb4;
+  --CRY30: #fddd82;
+  --CRY40: #fcd04f;
+  --CRY50: #fbc21d;
+  --CRY60: #e2a904;
+  --CRY70: #b08303;
+  --CRY80: #7d5e02;
+  --CRY90: #4b3801;
+  --CRY100: #191300;
+
+  /* Purple */
+  --CRPU10: #f2e6ff;
+  --CRPU20: #d9b3ff;
+  --CRPU30: #bf80fe;
+  --CRPU40: #a64dfe;
+  --CRPU50: #8c1bfe;
+  --CRPU60: #7301e4;
+  --CRPU70: #5901b2;
+  --CRPU80: #40017f;
+  --CRPU90: #26004c;
+  --CRPU100: #0d0019;
+}

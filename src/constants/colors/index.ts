@@ -1,0 +1,177 @@
+// "Primary"
+export const CRP10 = 'var(--CRP10)';
+export const CRP10RGB = '230, 244, 255';
+export const CRP20 = 'var(--CRP20)';
+export const CRP20RGB = '179, 222, 255';
+export const CRP30 = 'var(--CRP30)';
+export const CRP30RGB = '128, 200, 254';
+export const CRP40 = 'var(--CRP40)';
+export const CRP40RGB = '78, 177, 254';
+export const CRP50 = 'var(--CRP50)';
+export const CRP50RGB = '27, 155, 254';
+export const CRP60 = 'var(--CRP60)';
+export const CRP60RGB = '1, 130, 228';
+export const CRP70 = 'var(--CRP70)';
+export const CRP70RGB = '1, 101, 177';
+export const CRP80 = 'var(--CRP80)';
+export const CRP80RGB = '1, 72, 127';
+export const CRP90 = 'var(--CRP90)';
+export const CRP90RGB = '0, 43, 76';
+export const CRP100 = 'var(--CRP100)';
+export const CRP100RGB = '0, 14, 25';
+
+export const BLUE = 'var(--BLUE)';
+
+// "Secondar"y
+export const CRS10 = 'var(--CRS10)';
+export const CRS10RGB = '255, 241, 230';
+export const CRS20 = 'var(--CRS20)';
+export const CRS20RGB = '255, 212, 179';
+export const CRS30 = 'var(--CRS30)';
+export const CRS30RGB = '254, 183, 128';
+export const CRS40 = 'var(--CRS40)';
+export const CRS40RGB = '254, 154, 78';
+export const CRS50 = 'var(--CRS50)';
+export const CRS50RGB = '254, 125, 27';
+export const CRS60 = 'var(--CRS60)';
+export const CRS60RGB = '228, 100, 1';
+export const CRS70 = 'var(--CRS70)';
+export const CRS70RGB = '177, 78, 1';
+export const CRS80 = 'var(--CRS80)';
+export const CRS80RGB = '127, 55, 1';
+export const CRS90 = 'var(--CRS90)';
+export const CRS90RGB = '76, 33, 0';
+export const CRS100 = 'var(--CRS100)';
+export const CRS100RGB = '25, 11, 0';
+
+// Neutral
+export const CRN10 = 'var(--CRN10)';
+export const CRN10RGB = '255, 255, 255';
+export const CRN20 = 'var(--CRN20)';
+export const CRN20RGB = '242, 242, 242';
+export const CRN30 = 'var(--CRN30)';
+export const CRN30RGB = '207, 207, 207';
+export const CRN40 = 'var(--CRN40)';
+export const CRN40RGB = '175, 175, 175';
+export const CRN50 = 'var(--CRN50)';
+export const CRN50RGB = '143, 143, 143';
+export const CRN60 = 'var(--CRN60)';
+export const CRN60RGB = '112, 112, 112';
+export const CRN70 = 'var(--CRN70)';
+export const CRN70RGB = '80, 80, 80';
+export const CRN80 = 'var(--CRN80)';
+export const CRN80RGB = '48, 48, 48';
+export const CRN90 = 'var(--CRN90)';
+export const CRN90RGB = '16, 16, 16';
+export const CRN100 = 'var(--CRN100)';
+export const CRN100RGB = '0, 0, 0';
+
+// Red
+export const CRR10 = 'var(--CRR10)';
+export const CRR10RGB = '253, 234, 232';
+export const CRR20 = 'var(--CRR20)';
+export const CRR20RGB = '255, 179, 179';
+export const CRR30 = 'var(--CRR30)';
+export const CRR30RGB = '243, 148, 140';
+export const CRR40 = 'var(--CRR40)';
+export const CRR40RGB = '238, 105, 93';
+export const CRR50 = 'var(--CRR50)';
+export const CRR50RGB = '233, 62, 47';
+export const CRR60 = 'var(--CRR60)';
+export const CRR60RGB = '208, 36, 22';
+export const CRR70 = 'var(--CRR70)';
+export const CRR70RGB = '162, 28, 17';
+export const CRR80 = 'var(--CRR80)';
+export const CRR80RGB = '115, 20, 12';
+export const CRR90 = 'var(--CRR90)';
+export const CRR90RGB = '69, 12, 7';
+export const CRR100 = 'var(--CRR100)';
+export const CRR100RGB = '23, 4, 2';
+
+// Green
+export const CRG10 = 'var(--CRG10)';
+export const CRG10RGB = '236, 249, 239';
+export const CRG20 = 'var(--CRG20)';
+export const CRG20RGB = '197, 237, 207';
+export const CRG30 = 'var(--CRG30)';
+export const CRG30RGB = '158, 225, 176';
+export const CRG40 = 'var(--CRG40)';
+export const CRG40RGB = '119, 213, 144';
+export const CRG50 = 'var(--CRG50)';
+export const CRG50RGB = '80, 201, 112';
+export const CRG60 = 'var(--CRG60)';
+export const CRG60RGB = '54, 175, 87';
+export const CRG70 = 'var(--CRG70)';
+export const CRG70RGB = '42, 136, 67';
+export const CRG80 = 'var(--CRG80)';
+export const CRG80RGB = '30, 97, 48';
+export const CRG90 = 'var(--CRG90)';
+export const CRG90RGB = '18, 58, 29';
+export const CRG100 = 'var(--CRG100)';
+export const CRG100RGB = '6, 19, 10';
+
+// Blue
+export const CRB10 = 'var(--CRB10)';
+export const CRB10RGB = '231, 239, 254';
+export const CRB20 = 'var(--CRB20)';
+export const CRB20RGB = '183, 208, 251';
+export const CRB30 = 'var(--CRB30)';
+export const CRB30RGB = '135, 177, 248';
+export const CRB40 = 'var(--CRB40)';
+export const CRB40RGB = '86, 146, 245';
+export const CRB50 = 'var(--CRB50)';
+export const CRB50RGB = '38, 115, 242';
+export const CRB60 = 'var(--CRB60)';
+export const CRB60RGB = '13, 90, 217';
+export const CRB70 = 'var(--CRB70)';
+export const CRB70RGB = '10, 70, 169';
+export const CRB80 = 'var(--CRB80)';
+export const CRB80RGB = '7, 50, 120';
+export const CRB90 = 'var(--CRB90)';
+export const CRB90RGB = '4, 30, 72';
+export const CRB100 = 'var(--CRB100)';
+export const CRB100RGB = '1, 10, 24';
+
+// Yellow
+export const CRY10 = 'var(--CRY10)';
+export const CRY10RGB = '255, 248, 230';
+export const CRY20 = 'var(--CRY20)';
+export const CRY20RGB = '254, 235, 180';
+export const CRY30 = 'var(--CRY30)';
+export const CRY30RGB = '253, 221, 130';
+export const CRY40 = 'var(--CRY40)';
+export const CRY40RGB = '252, 208, 79';
+export const CRY50 = 'var(--CRY50)';
+export const CRY50RGB = '251, 194, 29';
+export const CRY60 = 'var(--CRY60)';
+export const CRY60RGB = '226, 169, 4';
+export const CRY70 = 'var(--CRY70)';
+export const CRY70RGB = '176, 131, 3';
+export const CRY80 = 'var(--CRY80)';
+export const CRY80RGB = '125, 94, 2';
+export const CRY90 = 'var(--CRY90)';
+export const CRY90RGB = '75, 56, 1';
+export const CRY100 = 'var(--CRY100)';
+export const CRY100RGB = '25, 19, 0';
+
+// Purple
+export const CRPU10 = 'var(--CRPU10)';
+export const CRPU10RGB = '242, 230, 255';
+export const CRPU20 = 'var(--CRPU20)';
+export const CRPU20RGB = '217, 179, 255';
+export const CRPU30 = 'var(--CRPU30)';
+export const CRPU30RGB = '191, 128, 254';
+export const CRPU40 = 'var(--CRPU40)';
+export const CRPU40RGB = '166, 77, 254';
+export const CRPU50 = 'var(--CRPU50)';
+export const CRPU50RGB = '140, 27, 254';
+export const CRPU60 = 'var(--CRPU60)';
+export const CRPU60RGB = '115, 1, 228';
+export const CRPU70 = 'var(--CRPU70)';
+export const CRPU70RGB = '89, 1, 178';
+export const CRPU80 = 'var(--CRPU80)';
+export const CRPU80RGB = '64, 1, 127';
+export const CRPU90 = 'var(--CRPU90)';
+export const CRPU90RGB = '38, 0, 76';
+export const CRPU100 = 'var(--CRPU100)';
+export const CRPU100RGB = '13, 0, 25';
