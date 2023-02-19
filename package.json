@@ -1,15 +1,12 @@
 {
-  "name": "retail-next",
+  "name": "ecommerce-admin-antd-ts",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lintstaged": "lint-staged",
-    "lint": "next lint",
-    "predeploy": "next lint & prettier --write .",
-    "postinstall": "husky install"
+    "lint": "next lint"
   },
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
@@ -39,28 +36,5 @@
     "next-with-less": "^2.0.5",
     "prettier": "^2.8.3",
     "typescript": "4.9.3"
-  },
-  "lint-staged": {
-    "*.js": [
-      "eslint --fix",
-      "prettier --write"
-    ],
-    "*.jsx": [
-      "eslint --fix",
-      "prettier --write"
-    ],
-    "*.ts": [
-      "eslint --fix",
-      "prettier --write"
-    ],
-    "*.tsx": [
-      "eslint --fix",
-      "prettier --write"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
